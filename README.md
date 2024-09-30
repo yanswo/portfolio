@@ -23,3 +23,6 @@ Crie seu próprio portfólio front-end, atentando-se para que seja autêntico, v
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+
+https://www.linkedin.com/in/yan-lucas-03128021a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
