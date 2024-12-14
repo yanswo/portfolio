@@ -34,10 +34,6 @@ html[data-theme="dark"] .brand__logo {
   filter: invert(1);
 }
 
-html[data-theme="light"] .technologies__logo {
-  filter: invert(0);
-}
-
 html[data-theme="dark"] .technologies__logo {
   filter: invert(1);
 }
